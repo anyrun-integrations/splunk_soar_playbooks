@@ -301,7 +301,7 @@
                             "obj_ext_cmd": "",
                             "obj_ext_startfolder": "temp",
                             "run_as_root": true,
-                            "user_tags": "splunk-soar-analysis",
+                            "user_tags": "splunk-soar",
                             "vault_id": "playbook_input:vault_id"
                         },
                         "requiredParameters": [
@@ -535,7 +535,7 @@
     "create_time": "2026-02-16T13:24:07.168258+00:00",
     "draft_mode": false,
     "labels": [
-        "*"
+        "events"
     ],
     "tags": []
 }

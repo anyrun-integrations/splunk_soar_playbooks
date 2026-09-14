@@ -83,7 +83,7 @@ def detonate_file_android(action=None, success=None, container=None, results=Non
                 "opt_privacy_type": "bylink",
                 "opt_timeout": 240,
                 "obj_ext_cmd": "",
-                "user_tags": "splunk-soar-analysis",
+                "user_tags": "splunk-soar",
             })
 
     ################################################################################

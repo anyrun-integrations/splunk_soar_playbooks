@@ -452,7 +452,7 @@
                             "opt_privacy_type": "bylink",
                             "opt_timeout": 120,
                             "obj_ext_extension": true,
-                            "user_tags": "splunk-soar-analysis"
+                            "user_tags": "splunk-soar"
                         },
                         "requiredParameters": [
                             {
@@ -553,7 +553,7 @@
     "create_time": "2026-02-16T13:23:12.941508+00:00",
     "draft_mode": false,
     "labels": [
-        "*"
+        "events"
     ],
     "tags": []
 }

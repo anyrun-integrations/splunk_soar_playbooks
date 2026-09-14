@@ -48,7 +48,7 @@ def detonate_url_linux(action=None, success=None, container=None, results=None, 
                 "opt_privacy_type": "bylink",
                 "opt_timeout": 120,
                 "obj_ext_extension": True,
-                "user_tags": "splunk-soar-analysis"
+                "user_tags": "splunk-soar"
             })
 
     ################################################################################

@@ -296,7 +296,7 @@
                             "opt_network_residential_proxy_geo": "fastest",
                             "opt_privacy_type": "bylink",
                             "opt_timeout": 240,
-                            "user_tags": "splunk-soar-analysis",
+                            "user_tags": "splunk-soar",
                             "vault_id": "playbook_input:vault_id"
                         },
                         "requiredParameters": [
@@ -530,7 +530,7 @@
     "create_time": "2026-02-16T13:24:07.168258+00:00",
     "draft_mode": false,
     "labels": [
-        "*"
+        "events"
     ],
     "tags": []
 }

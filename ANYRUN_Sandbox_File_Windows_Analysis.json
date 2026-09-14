@@ -305,7 +305,7 @@
                             "obj_ext_startfolder": "temp",
                             "obj_force_elevation": false,
                             "auto_confirm_uac": true,
-                            "user_tags": "splunk-soar-analysis"
+                            "user_tags": "splunk-soar"
                         },
                         "requiredParameters": [
                             {
@@ -538,7 +538,7 @@
     "create_time": "2026-02-16T13:24:07.168258+00:00",
     "draft_mode": false,
     "labels": [
-        "*"
+        "events"
     ],
     "tags": []
 }

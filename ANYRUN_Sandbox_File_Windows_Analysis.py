@@ -90,7 +90,7 @@ def detonate_file_windows(action=None, success=None, container=None, results=Non
                 "obj_ext_startfolder": "temp",
                 "obj_force_elevation": False,
                 "auto_confirm_uac": True,
-                "user_tags": "splunk-soar-analysis"
+                "user_tags": "splunk-soar"
             })
 
     ################################################################################

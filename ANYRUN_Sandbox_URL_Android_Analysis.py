@@ -45,7 +45,7 @@ def detonate_url_android(action=None, success=None, container=None, results=None
                 "opt_network_residential_proxy_geo": "fastest",
                 "opt_privacy_type": "bylink",
                 "opt_timeout": 120,
-                "user_tags": "splunk-soar-analysis",
+                "user_tags": "splunk-soar",
             })
 
     ################################################################################

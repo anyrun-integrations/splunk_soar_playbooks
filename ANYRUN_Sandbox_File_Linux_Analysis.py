@@ -87,7 +87,7 @@ def detonate_file_linux(action=None, success=None, container=None, results=None,
                 "obj_ext_cmd": "",
                 "obj_ext_startfolder": "temp",
                 "run_as_root": True,
-                "user_tags": "splunk-soar-analysis"
+                "user_tags": "splunk-soar"
             })
 
     ################################################################################
