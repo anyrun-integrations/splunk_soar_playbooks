@@ -302,7 +302,7 @@
                             "obj_ext_startfolder": "temp",
                             "run_as_root": true,
                             "user_tags": "splunk-soar",
-                            "vault_id": "playbook_input:vault_id"
+                            "vault_id": "artifact:*.cef.vaultId"
                         },
                         "requiredParameters": [
                             {

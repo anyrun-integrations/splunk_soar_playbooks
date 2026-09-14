@@ -63,7 +63,7 @@ def detonate_file_android(action=None, success=None, container=None, results=Non
     # Submits file for analysis in ANY.RUN Sandbox by vault_id(s)
     ################################################################################
 
-    playbook_input_vault_id = phantom.collect2(container=container, datapath=["playbook_input:vault_id"])
+    playbook_input_vault_id = phantom.collect2(container=container, datapath=["artifact:*.cef.vaultId"])
 
     parameters = []
 

@@ -297,7 +297,7 @@
                             "opt_privacy_type": "bylink",
                             "opt_timeout": 240,
                             "user_tags": "splunk-soar",
-                            "vault_id": "playbook_input:vault_id"
+                            "vault_id": "artifact:*.cef.vaultId"
                         },
                         "requiredParameters": [
                             {

@@ -436,7 +436,7 @@
                             "pauseValue": 2
                         },
                         "parameters": {
-                            "obj_url": "playbook_input:url",
+                            "obj_url": "artifact:*.cef.requestURL",
                             "env_type": "complete",
                             "env_locale": "en-US",
                             "env_bitness": 64,

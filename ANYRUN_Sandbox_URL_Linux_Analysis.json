@@ -436,7 +436,7 @@
                             "pauseValue": 2
                         },
                         "parameters": {
-                            "obj_url": "playbook_input:url",
+                            "obj_url": "artifact:*.cef.requestURL",
                             "env_os": "ubuntu",
                             "obj_ext_browser": "Google Chrome",
                             "env_locale": "en-US",

@@ -438,7 +438,7 @@
                         "parameters": {
                             "env_locale": "en-US",
                             "obj_ext_browser": "Google Chrome",
-                            "obj_url": "playbook_input:url",
+                            "obj_url": "artifact:*.cef.requestURL",
                             "opt_network_connect": true,
                             "opt_network_fakenet": false,
                             "opt_network_geo": "fastest",

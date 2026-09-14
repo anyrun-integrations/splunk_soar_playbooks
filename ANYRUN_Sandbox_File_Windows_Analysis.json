@@ -286,7 +286,7 @@
                             "pauseValue": 2
                         },
                         "parameters": {
-                            "vault_id": "playbook_input:vault_id",
+                            "vault_id": "artifact:*.cef.vaultId",
                             "env_type": "complete",
                             "env_bitness": 64,
                             "env_version": 10,
