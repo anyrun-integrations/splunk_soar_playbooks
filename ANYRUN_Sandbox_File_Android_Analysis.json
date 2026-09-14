@@ -494,13 +494,7 @@
                     "y": 1060
                 }
             },
-            "notes": "",
-            "origin": {
-                "playbook_id": 216,
-                "playbook_name": "ANYRUN_Sandbox_File_Android_Analysis",
-                "playbook_repo_id": 2,
-                "playbook_repo_name": "local"
-            }
+            "notes": ""
         },
         "input_spec": [
             {
