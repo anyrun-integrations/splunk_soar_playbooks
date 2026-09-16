@@ -1,7 +1,7 @@
 {
     "blockly": false,
     "blockly_xml": "<xml></xml>",
-    "category": "Uncategorized",
+    "category": "Dynamic Analysis",
     "coa": {
         "data": {
             "description": "This playbook is designed for automated file analysis in the ANY.RUN Sandbox on an Android virtual machine. It enriches artifacts through a ready-made workflow: submitting objects to the sandbox, retrieving verdicts, extracting IoCs, and generating detailed reports on malicious objects.",
