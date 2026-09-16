@@ -444,7 +444,8 @@
                             "opt_network_geo": "fastest",
                             "opt_network_residential_proxy_geo": "fastest",
                             "opt_privacy_type": "bylink",
-                            "opt_timeout": 120
+                            "opt_timeout": 120,
+                            "user_tags": "splunk-soar"
                         },
                         "requiredParameters": [
                             {
